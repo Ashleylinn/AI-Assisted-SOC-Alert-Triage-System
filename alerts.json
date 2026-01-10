@@ -1,0 +1,108 @@
+[
+  {
+    "timestamp": "2026-01-10T16:12:17.383096",
+    "user": "Daniel",
+    "ip": "203.0.113.50",
+    "location": "Japan",
+    "risk_level": "Medium",
+    "reasons": [
+      "Login from unusual location"
+    ]
+  },
+  {
+    "timestamp": "2026-01-10T16:13:17.383096",
+    "user": "Daniel",
+    "ip": "203.0.113.50",
+    "location": "Japan",
+    "risk_level": "Medium",
+    "reasons": [
+      "Login from unusual location"
+    ]
+  },
+  {
+    "timestamp": "2026-01-10T16:14:17.383096",
+    "user": "Daniel",
+    "ip": "203.0.113.50",
+    "location": "Japan",
+    "risk_level": "Medium",
+    "reasons": [
+      "Login from unusual location"
+    ]
+  },
+  {
+    "timestamp": "2026-01-10T16:15:17.383096",
+    "user": "Daniel",
+    "ip": "203.0.113.50",
+    "location": "Japan",
+    "risk_level": "Medium",
+    "reasons": [
+      "Login from unusual location"
+    ]
+  },
+  {
+    "timestamp": "2026-01-10T16:16:17.383096",
+    "user": "Daniel",
+    "ip": "203.0.113.50",
+    "location": "Japan",
+    "risk_level": "High",
+    "reasons": [
+      "Multiple failed login attempts",
+      "Login from unusual location"
+    ]
+  },
+  {
+    "timestamp": "2026-01-10T16:17:17.383096",
+    "user": "Daniel",
+    "ip": "203.0.113.50",
+    "location": "Japan",
+    "risk_level": "High",
+    "reasons": [
+      "Multiple failed login attempts",
+      "Login from unusual location"
+    ]
+  },
+  {
+    "timestamp": "2026-01-10T16:18:17.383096",
+    "user": "Daniel",
+    "ip": "203.0.113.50",
+    "location": "Japan",
+    "risk_level": "High",
+    "reasons": [
+      "Multiple failed login attempts",
+      "Login from unusual location"
+    ]
+  },
+  {
+    "timestamp": "2026-01-10T16:19:17.383096",
+    "user": "Daniel",
+    "ip": "203.0.113.50",
+    "location": "Japan",
+    "risk_level": "High",
+    "reasons": [
+      "Multiple failed login attempts",
+      "Login from unusual location"
+    ]
+  },
+  {
+    "timestamp": "2026-01-10T16:20:17.383096",
+    "user": "Daniel",
+    "ip": "203.0.113.50",
+    "location": "Japan",
+    "risk_level": "High",
+    "reasons": [
+      "Multiple failed login attempts",
+      "Login from unusual location"
+    ]
+  },
+  {
+    "timestamp": "2026-01-10T16:21:17.383096",
+    "user": "Daniel",
+    "ip": "203.0.113.50",
+    "location": "Japan",
+    "risk_level": "High",
+    "reasons": [
+      "Multiple failed login attempts",
+      "Login from unusual location"
+    ]
+  }
+]

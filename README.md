@@ -26,7 +26,7 @@ This project explores how AI can assist—not replace—security analysts by:
 
 - Detection of suspicious login patterns (e.g. repeated failures, unusual locations)
 
--- Automated alert severity classification (Low / Medium / High)
+- Automated alert severity classification (Low / Medium / High)
 
 - AI-generated incident summaries in natural language
 
