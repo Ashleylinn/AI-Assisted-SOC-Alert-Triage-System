@@ -6,6 +6,8 @@ This project simulates a Security Operations Center (SOC) workflow by automating
 
 The goal of this project is to demonstrate practical AI automation in information security, focusing on systems thinking rather than advanced machine learning.
 
+Note: This project does not rely on a trained machine learning model. Instead, it simulates AI-assisted triage using deterministic, rule-based logic to demonstrate how automated reasoning and incident summarization can support SOC workflows.
+
 ## AI Component
 
 This project uses an AI-ready design for incident summarization.
