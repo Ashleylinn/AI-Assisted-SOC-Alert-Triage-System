@@ -103,10 +103,11 @@ It intentionally avoids:
 
 ## What I Learned
 
-- How SOC-style alert triage workflows operate in practice
-- Designing explainable, rule-based security detection logic
-- Integrating AI-assisted summaries into automated pipelines
-- Building end-to-end automation from raw logs to incident reports
+- How SOC analysts triage authentication-based alerts in practice  
+- Designing explainable detection logic instead of relying on black-box models  
+- Structuring security workflows from raw logs → alerts → incident reports  
+- How AI can assist in security operations by improving clarity and decision speed  
+- The importance of balancing automation with human oversight in cybersecurity systems  
 
 ## Limitations
 
