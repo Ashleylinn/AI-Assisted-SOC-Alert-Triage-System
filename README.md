@@ -1,5 +1,7 @@
 # AI-Assisted-SOC-Alert-Triage-System
 
+A rule-based security system that simulates SOC alert triage and explores how AI can assist in incident analysis and response.
+
 ## Overview
 
 This project simulates a Security Operations Center (SOC) workflow by automating the triage of authentication logs.
