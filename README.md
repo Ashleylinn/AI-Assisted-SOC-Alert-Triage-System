@@ -46,8 +46,6 @@ This project explores how AI can assist—not replace—security analysts by:
 - **AI-assisted summaries as a support tool**  
   AI is designed to assist human analysts by providing structured explanations and recommendations, not to replace decision-making.
 
-### System Architecture
-
 ## Workflow
 
 1. Synthetic authentication logs are generated using a Python script (`generate_logs.py`)
