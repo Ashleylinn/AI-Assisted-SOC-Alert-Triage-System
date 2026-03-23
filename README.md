@@ -2,11 +2,9 @@
 
 ## Overview
 
-This project simulates a Security Operations Center (SOC) workflow by automating the triage of authentication logs. The system analyzes login events, identifies potentially suspicious activity using simple detection logic, and generates AI-assisted, analyst-readable incident summaries to support security analysts in decision-making.
+This project simulates a Security Operations Center (SOC) workflow by automating the triage of authentication logs.
 
-The goal of this project is to demonstrate practical AI automation in information security, focusing on systems thinking rather than advanced machine learning.
-
-Note: This project does not rely on a trained machine learning model. Instead, it simulates AI-assisted triage using deterministic, rule-based logic to demonstrate how automated reasoning and incident summarization can support SOC workflows.
+It focuses on a common real-world problem: security analysts must quickly identify meaningful threats from large volumes of login activity. This system demonstrates how rule-based detection and AI-assisted summarization can reduce manual effort and improve incident response efficiency.
 
 ## AI-Assisted Design (Rule-Based Simulation)
 
