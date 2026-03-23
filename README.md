@@ -58,15 +58,14 @@ This project explores how AI can assist—not replace—security analysts by:
 
 ## Features
 
-- Synthetic authentication log generation
-
-- Detection of suspicious login patterns (e.g. repeated failures, unusual locations)
-
-- Automated alert severity classification (Low / Medium / High)
-
-- AI-assisted incident summarization using structured prompts (LLM-ready design)
-
-- Structured output suitable for SOC workflows
+- Generates synthetic authentication logs with both normal and attack scenarios
+- Detects:
+  - Repeated failed login attempts (brute-force simulation)
+  - Logins from previously unseen locations
+- Assigns risk levels based on number of suspicious indicators
+- Produces structured alerts with contextual metadata
+- Generates AI-style incident summaries and recommended actions
+- Outputs results in JSON format for further analysis or integration
 
 ## Tech Stack
 
