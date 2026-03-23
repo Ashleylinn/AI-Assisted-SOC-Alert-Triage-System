@@ -32,6 +32,20 @@ This project explores how AI can assist—not replace—security analysts by:
 
 - Generating clear, human-readable incident summaries
 
+## Design Decisions
+
+- **Rule-based detection over machine learning**  
+  Chosen to ensure transparency, explainability, and ease of validation in early-stage system design.
+
+- **Two-pass log analysis**  
+  The system first establishes baseline user behavior (normal login locations), then detects anomalies. This mirrors real-world behavioral analysis techniques.
+
+- **Risk scoring based on multiple indicators**  
+  Alerts are classified as Medium or High risk depending on the number of suspicious signals, reflecting how SOC analysts prioritize incidents.
+
+- **AI-assisted summaries as a support tool**  
+  AI is designed to assist human analysts by providing structured explanations and recommendations, not to replace decision-making.
+
 ## System Architecture
 
 ## Workflow
