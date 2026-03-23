@@ -79,7 +79,7 @@ This project explores how AI can assist—not replace—security analysts by:
 
 ## Project Scope
 
-This project focuses on one realistic SOC task:
+This project focuses on a core SOC function:
 
 - Alert triage and incident summarization
 
