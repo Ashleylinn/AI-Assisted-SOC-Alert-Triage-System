@@ -95,13 +95,13 @@ It intentionally avoids:
 
 ## Example Use Case
 
-1. Authentication logs are ingested from a CSV file
-
-2. The system detects multiple failed login attempts from a new IP address
-
-3. An alert is automatically flagged as High Risk
-
-4. AI generates a concise incident summary with recommended next steps
+1. The system ingests authentication logs from a CSV file  
+2. A user account receives multiple failed login attempts from a new geographic location  
+3. The system detects:
+   - Repeated login failures  
+   - Unusual location behavior  
+4. The alert is classified as **High Risk**  
+5. An AI-generated summary explains the incident and recommends actions such as account lock and IP investigation  
 
 ## What I Learned
 
